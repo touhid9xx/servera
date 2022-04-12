@@ -21,6 +21,7 @@ public class Server {
     private String ipAddress;
     private String name;
     private String memory;
+    private String imageUrl;
     private String type;
     private Status status;
 }
